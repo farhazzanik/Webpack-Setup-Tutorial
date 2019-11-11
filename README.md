@@ -15,8 +15,11 @@
 	
 
 **then create "index.html" file in main directory
-**then create folder name as src and make and create one file as well name as "app.js"
-**Next create a ".bablerc" in root directory and pasted this code and save file
+
+
+**then create a folder,name as "src" and  create one name as "app.js"
+
+**Next create a file name as  ".bablerc" in root directory and paste  this code and save file
 				
 		{
 			"presets":[
